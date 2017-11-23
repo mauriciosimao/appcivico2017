@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "878806805357",
+    "firebase_url": "https://appcivicoremedio.firebaseio.com",
+    "project_id": "appcivicoremedio",
+    "storage_bucket": "appcivicoremedio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878806805357:android:72f8584166d637dd",
+        "android_client_info": {
+          "package_name": "br.iesb.appcivicotcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878806805357-mbo6d6fvs3shat934nl9kojupu4audis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.iesb.appcivicotcu",
+            "certificate_hash": "169dbcbfbe89401997902ddc2adabfeadb24ef4e"
+          }
+        },
+        {
+          "client_id": "878806805357-g11dpmdgirdj277oh7ot8chchcn3nh5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1PWwoq7WELqHNm-SF7H6pzPUbhTT-hjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878806805357-g11dpmdgirdj277oh7ot8chchcn3nh5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">appcivico tcu</string>
+    <string name="title_activity_pesquisar_medicamento">PesquisarMedicamentoActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">139884073443511</string>
+    <string name="fb_login_protocol_scheme">fb139884073443511</string>
+
+
+
+
+</resources>
